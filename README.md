@@ -1,5 +1,6 @@
 # humanoid
 
-![image](https://github.com/timurgepard/humanoid/assets/13238473/a178e55c-fcf8-47fd-b401-6cb7dd49f725)
+![image](https://github.com/timurgepard/humanoid/assets/13238473/bc4c08e4-f5ff-4cb1-83c8-9bc531eab61f)
+
 
 
